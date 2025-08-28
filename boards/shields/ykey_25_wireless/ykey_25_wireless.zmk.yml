@@ -1,0 +1,14 @@
+
+file_format: "1"
+id: ykey_25_wireless
+name: ykey_25_wireless
+type: shield
+features:
+  - keys
+  - studio
+outputs:
+  - usb
+  - ble
+siblings:
+  - ykey_25_wireless_left
+  - ykey_25_wireless_right
